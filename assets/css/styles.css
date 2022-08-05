@@ -244,9 +244,15 @@ img {
 
 /* Active link */
 
+.active-link{
+  color: var(--first-color);
+
+}
 
 /* Change background header */
-
+.scroll-header{
+  box-sizing: 0 -1px 4px rgba(0,0,0,.15);
+}
 
 /*==================== HOME ====================*/
 
@@ -887,7 +893,7 @@ img {
 .contact__label{
   font-size: var(--smaller-font-size);
   color: var(--title-color);
-  
+
 }
 .contact__input{
   width: 100%;
@@ -903,7 +909,60 @@ img {
 
 /*==================== FOOTER ====================*/
 
+.footer{
+  padding-top: 2rem;
+}
 
+.footer__container{
+  row-gap: 3.5rem;
+}
+
+.footer__bg{
+  background-color: var(--first-color-second);
+  padding: 2rem 0 3rem;
+}
+
+.footer__title{
+  font-size: var(--h1-font-size);
+  margin-bottom: var(--mb-0-75);
+}
+
+.footer__subtitle{
+  font-size: var(--small-font-size);
+}
+
+.footer__links{
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.5rem;
+}
+
+.footer__link:hover{
+  color: var(--first-color-lighter);
+}
+
+.footer__social{
+  font-size: 1.25rem;
+  margin-right: var(--mb-1-5);
+}
+
+.footer__social:hover{
+  color: var(--first-color-lighter);
+}
+
+.footer__copy{
+  font-size: var(--smaller-font-size);
+  text-align: center;
+  color: var(--text-color-light);
+  margin-top: var(--mb-3);
+}
+
+.footer__title,
+.footer__subtitle,
+.footer__link,
+.footer__social{
+  color: #fff;
+}
 /*========== SCROLL UP ==========*/
 
 
