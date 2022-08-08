@@ -38,6 +38,10 @@
 
 
 
+## Result
+
+![Alt Text](/assets/img/GitHub/darkmode.gif)
+
 
 
 https://tanu-n-prabhu.github.io/portfolio.io/
