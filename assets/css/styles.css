@@ -329,7 +329,7 @@ img {
 
 }
 
-.home_subtitle{
+.home__subtitle{
   font-size: var(--h3-font-size);
   color: var(--text-color);
   font-weight: var(--font-medium);
