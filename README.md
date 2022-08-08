@@ -4,7 +4,7 @@
 
 
 <p align = "center">
-<img src="assets/img/GitHub/git_1.png">
+<img src="assets\img\GitHub\git_1.PNG">
 </p>
 
 ## Problem Statement
