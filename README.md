@@ -26,15 +26,15 @@
 
 ## Tools Used
 
-* [Icons](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pwdk4yUDdWWEFYb0YwbjFvZHhkSGNscnBxQXxBQ3Jtc0tueUtwT2lBTWV4dXpfcmJRS0lXOHBYQXQ3TkRNZGJ4eFl1WWZiZkljYS1tZXFlTVRlaFBtYm4zWTdwc0MwNVFjY285cG1ZY2VaSzNTTnVEcDdoZ1ZiV05FYVlDSTVaSmFkZWpueDY1Q1l1bTJsQUdOcw&q=https%3A%2F%2Ficonscout.com%2Funicons&v=27JtRAI3QO8) - Contains over 4500+ icon fonts for Developers and designers to speedup production.
+* [Icons](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pwdk4yUDdWWEFYb0YwbjFvZHhkSGNscnBxQXxBQ3Jtc0tueUtwT2lBTWV4dXpfcmJRS0lXOHBYQXQ3TkRNZGJ4eFl1WWZiZkljYS1tZXFlTVRlaFBtYm4zWTdwc0MwNVFjY285cG1ZY2VaSzNTTnVEcDdoZ1ZiV05FYVlDSTVaSmFkZWpueDY1Q1l1bTJsQUdOcw&q=https%3A%2F%2Ficonscout.com%2Funicons&v=27JtRAI3QO8) - Contains over 4500+ icon fonts for Developers and designers to speed up production.
 
 * [Google Fonts]( https://fonts.google.com/) - The entire portfolio contains all the fonts extended from the Google Font library.
-
-* [GitHub](https://github.com/Tanu-N-Prabhu/portfolio.io) - The entire code and documentation is stored in GitHub (obviously).
+* [GitHub](https://github.com/Tanu-N-Prabhu/portfolio.io) - The entire code and documentation is stored on GitHub (obviously).
 * [Swiper](https://swiperjs.com/) - Used this to extend the most modern mobile touch slider.
 * [Background Remover](https://www.remove.bg/) - Used to remove the background of the image.
 * [HSL](https://www.w3schools.com/colors/) - Used to generate the color codes for the portfolio
-* [Blob](https://www.blobmaker.app/) - Used to generator the blob for the main image in the portfolio
+* [Blob](https://www.blobmaker.app/) - Used to generate the blob for the main image in the portfolio.
+* [Visual Studio Code](https://code.visualstudio.com/) - Used this editor to write the code (My favorite one tbh).
 
 
 
