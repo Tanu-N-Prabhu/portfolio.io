@@ -40,7 +40,7 @@
 
 ## Result
 
-![Alt Text](/assets/img/GitHub/darkmode.gif)
+![Alt Text](/assets/img/GitHub/darkmode-min.gif)
 
 
 
