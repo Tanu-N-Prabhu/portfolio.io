@@ -36,6 +36,14 @@
 * [Blob](https://www.blobmaker.app/) - Used to generate the blob for the main image in the portfolio.
 * [Visual Studio Code](https://code.visualstudio.com/) - Used this editor to write the code (My favorite one tbh).
 
+
+## Directory Structure
+
+<p align = "center">
+<img src="assets\img\GitHub\dir_structure.PNG">
+</p>
+
+
 ## Credits
 
 Special thanks to Marlon A.K.A [Bedimcode](https://github.com/bedimcode) for helping me design this beautiful portfolio. If you guys need to extend some web templates then this is the right place to get it. You can also find the template of this portfolio [here](https://github.com/bedimcode/responsive-portfolio-website-Alexa).
