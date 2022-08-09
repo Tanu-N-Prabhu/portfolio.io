@@ -44,6 +44,13 @@
 </p>
 
 
+## Project Flowchart
+
+<p align = "center">
+<img src="assets\img\GitHub\dir_structure_flowchart.PNG">
+</p>
+
+
 ## Credits
 
 Special thanks to Marlon A.K.A [Bedimcode](https://github.com/bedimcode) for helping me design this beautiful portfolio. If you guys need to extend some web templates then this is the right place to get it. You can also find the template of this portfolio [here](https://github.com/bedimcode/responsive-portfolio-website-Alexa).
