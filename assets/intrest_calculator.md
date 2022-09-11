@@ -18,3 +18,7 @@
 
 > The longer you invest, the more your savings may grow through compound returns.
 
+
+## Based on your contributions and assumed interest rate, your savings could grow to approximately
+
+<p align = "center">$32,177</p>
