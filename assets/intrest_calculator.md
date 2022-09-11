@@ -22,3 +22,5 @@
 ## Based on your contributions and assumed interest rate, your savings could grow to approximately
 
 <h1><p align = "center">$32,177</p></h1>
+
+<p align = "center"><img src = "assets\img\intrest_td.PNG"></img></p>
