@@ -23,4 +23,4 @@
 
 <h1><p align = "center">$32,177</p></h1>
 
-<p align = "center"><img src = "assets\img\intrest_td.PNG"></img></p>
+<img src = "assets\img\intrest_td.PNG">
