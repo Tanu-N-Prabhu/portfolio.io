@@ -1,5 +1,4 @@
 # Compound Interest Calculator
----
 
 ## Long-term investing can be a great way to save for your future.
 
