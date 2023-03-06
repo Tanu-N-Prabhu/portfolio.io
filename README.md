@@ -61,6 +61,7 @@
 * **Dark Mode** - I have used the Javascript to code the darkmode functionality. The way the code is written such that it saves the mode into the memory, so that it remembers what was the recent used option. To access the darkmode function please go the [main.js](assets/js/main.js) file
 
 
+* **Linking to #id on different webpage** -- As you are reading the code you will understand that I have used the concept of accessing the id from a different page. All you need to do append the `id` at the end of the page. For example `index.html#id-name`. 
 
  
 
