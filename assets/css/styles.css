@@ -550,20 +550,20 @@ img {
 .skills__js{
   width: 70%;
 }
-.skills__react{
-  width: 50%;
+.skills__bs{
+  width: 60%;
 }
 
 .skills__php{
-  width: 50%;
+  width: 40%;
 }
 
 .skills__node{
-  width: 70%;
+  width: 20%;
 }
 
 .skills__firebase{
-  width: 50%;
+  width: 30%;
 }
 .skills__python{
   width: 95%;
@@ -577,9 +577,26 @@ img {
   width: 80%;
 }
 .skills__photoshop{
-  width: 70%;
+  width: 75%;
 }
-
+.skills__snapseed{
+  width: 95%;
+}
+.skills__te{
+  width: 95%;
+}
+.skills__gm{
+  width: 95%;
+}
+.skills__pw{
+  width: 80%;
+}
+.skills__qb{
+  width: 75%;
+}
+.skills__jn{
+  width: 90%;
+}
 
 .skills__close .skills__list{
   height: 0;
