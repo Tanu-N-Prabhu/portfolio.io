@@ -58,6 +58,8 @@
 <img src="assets\img\viewport.PNG">
 </p>
 
+* **Dark Mode** - I have used the Javascript to code the darkmode functionality. The way the code is written such that it saves the mode into the memory, so that it remembers what was the recent used option. To access the darkmode function please go the [main.js](assets/js/main.js) file
+
 
 
  
