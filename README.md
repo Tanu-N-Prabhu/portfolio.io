@@ -95,3 +95,5 @@ Tanu's Portfolio - [Website](https://tanu-n-prabhu.github.io/portfolio.io/)
 
 * Update the footer with similar options such as the navigation bar -- **Status Working**
 
+* Add the most recent work to the work history tab -- **Status Completed**
+
