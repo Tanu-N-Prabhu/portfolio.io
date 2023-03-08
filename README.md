@@ -83,3 +83,9 @@ Special thanks to Marlon A.K.A [Bedimcode](https://github.com/bedimcode) for hel
 Tanu's Portfolio - [Website](https://tanu-n-prabhu.github.io/portfolio.io/)
 
 
+### Updates
+
+* Fine Tune the contents in the Portfolio - Most Recent Work section. Make it look crisp and clean -- **Status Working**
+
+
+
