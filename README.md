@@ -89,7 +89,9 @@ Tanu's Portfolio - [Website](https://tanu-n-prabhu.github.io/portfolio.io/)
 
 * Change the name on the nav bar top left corner from "Tanu" to "My Garage" -- **Status Working**
 
-* Change the photo of me in the About Me section - Put up a most recent one -- **Status Working**
+* Change the photo of me in the About Me section - Put up the most recent one -- **Status Working**
+
+* Removing the words "My" from the Skill section -- **Status Working**
 
 
 
