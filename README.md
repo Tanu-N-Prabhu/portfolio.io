@@ -93,5 +93,5 @@ Tanu's Portfolio - [Website](https://tanu-n-prabhu.github.io/portfolio.io/)
 
 * Removing the words "My" from the Skill section -- **Status Working**
 
-
+* Update the footer with similar options such as the navigation bar -- **Status Working**
 
