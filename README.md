@@ -87,7 +87,7 @@ Tanu's Portfolio - [Website](https://tanu-n-prabhu.github.io/portfolio.io/)
 
 * Fine-tuning the contents in the Portfolio. Make it look crisp and clean -- **Status Working**
 
-* Change the name on the nav bar top left corner from "Tanu" to "My Garage" -- **Status Working**
+* ~Change the name on the nav bar top left corner from "Tanu" to "Backend"~ -- **Status Working**
 
 * ~Change the photo of me in the About Me section - Put up the most recent one~ -- **Status Completed**
 
