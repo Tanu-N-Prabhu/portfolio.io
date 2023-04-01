@@ -66,7 +66,7 @@
 
 * **Dynamic Navigation Bar** -- Both the navigation bar and the footer are dynamic, not static. If you are using a phone then you will see the difference. All the options in the navigation bar have icons next to them. This increases the readability of the options and makes it easy to
  
-
+* **Open Source Code** -- I have made the code open source, so if you want to use this framework go ahead and feel free to use it. You don't need to give any credits to me. Also the code is well documented, so that people with very slight knowledge of front end coding will understand this. If you need any help, please don't hesitate and let me know.
 
 ## Credits
 
