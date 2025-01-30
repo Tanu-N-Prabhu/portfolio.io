@@ -604,6 +604,18 @@ img {
   width: 90%;
 }
 
+.skills__gs{
+  width: 100%;
+}
+
+.skills__mo{
+  width: 95%;
+}
+
+.skills__md{
+  width: 95%;
+}
+
 .skills__close .skills__list{
   height: 0;
   overflow: hidden;
